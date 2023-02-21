@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SerahNderitu
-- 👀 I’m interested in ... Copywriting and article writing
-- 🌱 I’m currently learning ...Web development
-- 💞️ I’m looking to collaborate on ...wordpress 
+- 👀 I’m interested in ... Web Development 
+- 🌱 I’m currently learning ...Data Structure and Algorithms
+- 💞️ I’m looking to collaborate on ...Python and Django projects
 - 📫 How to reach me ...https://www.linkedin.com/in/serah-nderitu/
 
 <!---
